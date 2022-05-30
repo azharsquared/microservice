@@ -1,6 +1,8 @@
 D:\study\amigoscode\microservices-project\customer\src\main\java\com\microservices\customer\CustomerApplication.java
 D:\study\amigoscode\microservices-project\customer\src\main\java\com\microservices\customer\CustomerRegistrationRequest.java
+D:\study\amigoscode\microservices-project\customer\src\main\java\com\microservices\customer\FraudCheckResponse.java
 D:\study\amigoscode\microservices-project\customer\src\main\java\com\microservices\customer\Customer.java
+D:\study\amigoscode\microservices-project\customer\src\main\java\com\microservices\customer\CustomerConfig.java
 D:\study\amigoscode\microservices-project\customer\src\main\java\com\microservices\customer\CustomerRepository.java
 D:\study\amigoscode\microservices-project\customer\src\main\java\com\microservices\customer\CustomerService.java
 D:\study\amigoscode\microservices-project\customer\src\main\java\com\microservices\customer\CustomerController.java

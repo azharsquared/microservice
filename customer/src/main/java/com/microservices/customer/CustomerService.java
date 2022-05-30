@@ -17,7 +17,7 @@ public class CustomerService {
                 .email(customerRegistrationRequest.email()).build();
 
         customerRepository.saveAndFlush(customer);
-        restTemplate.getForObject("http://localhost:8081/api/v1/fraud-check/{customerID}",FraudCheckResponse.class,customer.getId());
+        restTemplate.getForObject("http://FRAUD/api/v1/fraud-check/{customerID}",FraudCheckResponse.class,customer.getId());
 
     }
 }
